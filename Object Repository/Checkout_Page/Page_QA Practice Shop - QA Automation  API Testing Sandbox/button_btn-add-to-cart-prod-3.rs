@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_btn-add-to-cart-prod-3</name>
+   <tag></tag>
+   <elementGuidId>bb76ca97-4da1-4405-9326-c6e7846bb7c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'btn-add-to-cart-prod-3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;btn-add-to-cart-prod-3&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;btn-add-to-cart-prod-3&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>02d858a3-5792-4a0c-a0fe-d6e10eab637f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-add-to-cart-prod-3</value>
+      <webElementGuid>67cbfef4-aa52-4e99-9a24-ee97c79365e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>btn-add-to-cart-prod-3</value>
+      <webElementGuid>cea56f72-bcb5-43ce-90d8-e006e0116a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-center gap-1.5 px-3 py-2 rounded-xl text-xs font-semibold transition active:scale-95 shadow-xs bg-indigo-600 hover:bg-indigo-700 text-white hover:shadow-md</value>
+      <webElementGuid>26584e09-5cd7-492e-b87a-d093c042d575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Add Mechanical RGB Mechanical Keyboard 75% to cart</value>
+      <webElementGuid>56ab0bb7-b25a-4b0d-98eb-164f8eac54e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Cart</value>
+      <webElementGuid>eed5ddcf-a4e6-46b8-9fd8-c282fa139ef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-01049ed8e53a955c42ac03529062b7c9</value>
+      <webElementGuid>a8948b66-d00c-4911-8ad6-57886252d4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'btn-add-to-cart-prod-3']</value>
+      <webElementGuid>3e46cc47-1ffe-440c-9a5f-6a29e7bb0238</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'btn-add-to-cart-prod-3']</value>
+      <webElementGuid>adcb07c6-de3c-47b6-9a74-60f884002976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-add-to-cart-prod-3' and (text() = 'Add to Cart' or . = 'Add to Cart')]</value>
+      <webElementGuid>c01c3fb3-f4bb-42d2-8a98-96d4078db9ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

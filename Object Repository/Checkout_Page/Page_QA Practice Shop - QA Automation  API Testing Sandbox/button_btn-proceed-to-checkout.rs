@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_btn-proceed-to-checkout</name>
+   <tag></tag>
+   <elementGuidId>8d570ed5-f40b-4776-a3f8-a486a44043f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'btn-proceed-to-checkout']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;btn-proceed-to-checkout&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;btn-proceed-to-checkout&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7dd55158-1487-4338-89df-a6041090bb12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-proceed-to-checkout</value>
+      <webElementGuid>aad9d77e-24e8-4c85-ae96-3c719897e90c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>btn-proceed-to-checkout</value>
+      <webElementGuid>ed396f32-2175-426e-9177-c89824ec9565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full py-3.5 px-4 bg-indigo-600 hover:bg-indigo-700 text-white font-bold rounded-2xl shadow-sm hover:shadow-md flex items-center justify-center gap-2 text-xs sm:text-sm transition active:scale-95</value>
+      <webElementGuid>99c63ac6-3bbb-44bd-b5f2-f1c250544978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proceed to Checkout</value>
+      <webElementGuid>cffac297-0e30-4396-863c-d6bb82646b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c656d5b0b7533391887cc1b1455fd48f</value>
+      <webElementGuid>f2c9d75d-2147-4e92-8879-92400364c0d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'btn-proceed-to-checkout']</value>
+      <webElementGuid>57bce3d6-911a-4887-8dcb-82b65e23f095</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'btn-proceed-to-checkout']</value>
+      <webElementGuid>f1e244ee-31ac-4ae1-a16b-6bbf406efb3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-proceed-to-checkout' and (text() = 'Proceed to Checkout' or . = 'Proceed to Checkout')]</value>
+      <webElementGuid>d1c2a8f6-71a7-4791-b837-a898a61dbd29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

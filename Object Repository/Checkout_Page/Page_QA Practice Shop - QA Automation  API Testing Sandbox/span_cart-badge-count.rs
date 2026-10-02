@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_cart-badge-count</name>
+   <tag></tag>
+   <elementGuidId>bfe377db-678f-400d-9962-b1215c5d95d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'cart-badge-count' and (text() = '2' or . = '2')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'cart-badge-count']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;cart-badge-count&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;nav-btn-cart&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>206640eb-37e9-4cb2-87a0-a5697bf0e396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cart-badge-count</value>
+      <webElementGuid>e697b841-91b4-447a-b610-a6d289dd0c23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>cart-badge-count</value>
+      <webElementGuid>cc0ec164-5070-48a6-bcda-a12d805ce5e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute -top-1 -right-1 bg-indigo-600 text-white text-[11px] font-bold rounded-full h-5 w-5 flex items-center justify-center shadow-sm animate-in zoom-in-75</value>
+      <webElementGuid>85a98bd1-c4f8-438a-ae74-ca16b8e91e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>2efb6891-6586-4aa0-8a82-2bb7e037d189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d0b0473b3370c28ed8bb09eb176528eb</value>
+      <webElementGuid>7374d163-4519-43c3-b93d-6d1b18dc42b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'cart-badge-count']</value>
+      <webElementGuid>02cda5a7-a8e5-49f7-8da8-a0edb132e624</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'cart-badge-count']</value>
+      <webElementGuid>0e556210-fbd6-4189-9349-dfdbadf2e57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'cart-badge-count' and (text() = '2' or . = '2')]</value>
+      <webElementGuid>6388833a-6568-4477-b9aa-b869640c0a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'cart-badge-count' and (text() = '3' or . = '3')]</value>
+      <webElementGuid>826ccf06-a5c8-46fc-af1f-c93ad5dd1b49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

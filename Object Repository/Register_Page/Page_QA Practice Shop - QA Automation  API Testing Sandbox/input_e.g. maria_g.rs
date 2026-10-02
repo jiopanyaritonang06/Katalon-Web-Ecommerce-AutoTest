@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_e.g. maria_g</name>
+   <tag></tag>
+   <elementGuidId>7f25f5b0-cbf9-406b-ab8b-5010fc7b64be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'input-reg-username' and @placeholder = 'e.g. maria_g' and @type = 'text' and @name = 'username']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'input-reg-username']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;input-reg-username&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;input-reg-username&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d1f85857-fc66-4b7b-8bf1-7eca7fbc84df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-reg-username</value>
+      <webElementGuid>d77357a5-c8fc-42e4-aa3f-00474f47d9fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>input-reg-username</value>
+      <webElementGuid>4d2ca59a-892f-415c-96ee-abffe48dfcf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>e.g. maria_g</value>
+      <webElementGuid>913a552e-87e8-40ec-96f7-4b4eb88a599c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full pl-9 pr-3.5 py-2.5 bg-slate-50 border rounded-xl text-xs text-slate-900 focus:outline-none focus:bg-white focus:ring-2 border-slate-200 focus:ring-indigo-500/20 focus:border-indigo-500</value>
+      <webElementGuid>ac48d147-ae0c-435c-9569-117cefe227ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>cf1cb588-0015-4ede-8947-4d030b2ab75a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>f8a23ee8-b63a-4661-a88f-a0b007580355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c6f3e9e4599a9c2664bc87697f0c5784</value>
+      <webElementGuid>b4c3332e-a87f-4827-a0c7-2686a198a66a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'input-reg-username']</value>
+      <webElementGuid>1a939efe-2399-4afc-aea8-06807bc1445b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'input-reg-username']</value>
+      <webElementGuid>350e4efc-f983-42d5-ad89-10d3dce46994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-reg-username' and @placeholder = 'e.g. maria_g' and @type = 'text' and @name = 'username']</value>
+      <webElementGuid>1fe348cd-bc90-42e1-b8e1-a415a1347782</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

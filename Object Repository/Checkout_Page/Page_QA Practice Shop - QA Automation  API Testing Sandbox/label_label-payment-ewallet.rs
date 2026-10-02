@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_label-payment-ewallet</name>
+   <tag></tag>
+   <elementGuidId>3db1f352-c933-4b07-a55d-ff94e822fbc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'label-payment-ewallet']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;label-payment-ewallet&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;label-payment-ewallet&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0e309719-a0e5-4613-9ba7-b6412570d0a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label-payment-ewallet</value>
+      <webElementGuid>85ed5c20-eca4-4f23-8640-67feb82fa17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>label-payment-ewallet</value>
+      <webElementGuid>c5b891ae-c040-4b4e-95de-e73a3809a4ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-4 rounded-2xl border-2 flex items-start gap-3 cursor-pointer transition border-slate-200 hover:border-slate-300</value>
+      <webElementGuid>3e7daed4-f6ed-4219-8aec-3bde473454b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>E-Wallet (QA Pay)One-click checkout with digital balance.</value>
+      <webElementGuid>11663bce-2f18-4b25-9121-f0a3c642ff1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d00ac5f81af769b1505633a4abeb5c64</value>
+      <webElementGuid>68dce85c-fd14-43cb-b2ae-812c5170030a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'label-payment-ewallet']</value>
+      <webElementGuid>caa81195-c1f8-412f-8e14-cd0ef5be9581</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'label-payment-ewallet']</value>
+      <webElementGuid>df197366-f0e6-45be-848d-5b8883d276c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'label-payment-ewallet' and (text() = 'E-Wallet (QA Pay)One-click checkout with digital balance.' or . = 'E-Wallet (QA Pay)One-click checkout with digital balance.')]</value>
+      <webElementGuid>078ac205-f43d-4690-9b97-36e85567c20c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

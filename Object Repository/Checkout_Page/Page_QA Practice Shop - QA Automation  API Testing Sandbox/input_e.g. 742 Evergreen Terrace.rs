@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_e.g. 742 Evergreen Terrace</name>
+   <tag></tag>
+   <elementGuidId>01e80cc3-99b2-4184-b0bd-a5e4d700751c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'input-shipping-address' and @placeholder = 'e.g. 742 Evergreen Terrace' and @type = 'text' and @name = 'address']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'input-shipping-address']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;input-shipping-address&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;input-shipping-address&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>33904665-ab70-469d-9027-1a3419d40469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-shipping-address</value>
+      <webElementGuid>20800186-5357-4226-a053-b8fa592573e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>input-shipping-address</value>
+      <webElementGuid>50b9c371-293f-4563-82b7-6cb0f446d774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>e.g. 742 Evergreen Terrace</value>
+      <webElementGuid>63569e65-bc0f-4598-abe0-d13899407a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-3.5 py-2.5 bg-slate-50 border rounded-xl text-xs text-slate-800 focus:outline-none focus:bg-white focus:ring-2 border-slate-200 focus:ring-indigo-500/20 focus:border-indigo-500</value>
+      <webElementGuid>ffc2007b-22b7-4923-be51-b90f82ebe155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9e178049-834e-401d-8e81-982ac99a8de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>742 Evergreen Terrace</value>
+      <webElementGuid>0803a1c9-b8d8-4d55-9438-8ad6c87cd56e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>9ec2db1e-d37d-47c6-8675-91cf6d40f527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-02096f4a3a97f84c987bb1d3d6deb8fa</value>
+      <webElementGuid>f7008dd1-3cd7-40b0-b9e0-a56b4faa6167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'input-shipping-address']</value>
+      <webElementGuid>0f4e3ceb-4fb7-42b8-975d-9ca503e7cfc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'input-shipping-address']</value>
+      <webElementGuid>30e6dbe6-134d-4509-a42f-5d2c9236045b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-shipping-address' and @placeholder = 'e.g. 742 Evergreen Terrace' and @type = 'text' and @name = 'address']</value>
+      <webElementGuid>43398976-8162-449c-84e9-a3dd602de669</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

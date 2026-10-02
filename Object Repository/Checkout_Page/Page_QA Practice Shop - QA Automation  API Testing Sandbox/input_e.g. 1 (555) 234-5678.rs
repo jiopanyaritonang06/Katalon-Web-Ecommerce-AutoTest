@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_e.g. 1 (555) 234-5678</name>
+   <tag></tag>
+   <elementGuidId>e802eb29-da41-4d83-bad6-670354161da6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'input-shipping-phone' and @placeholder = 'e.g. +1 (555) 234-5678' and @type = 'tel' and @name = 'phone']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'input-shipping-phone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;input-shipping-phone&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;input-shipping-phone&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>67d03aa4-7a6a-4533-af4f-29f4526ff7f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>input-shipping-phone</value>
+      <webElementGuid>57227dd6-5e19-43aa-bc76-d721f6a6c84f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>input-shipping-phone</value>
+      <webElementGuid>61febde2-d31b-4171-b1f8-752d24ed4785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>e.g. +1 (555) 234-5678</value>
+      <webElementGuid>d3981c19-19dc-4f91-b67d-50af49bc38f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-3.5 py-2.5 bg-slate-50 border rounded-xl text-xs text-slate-800 focus:outline-none focus:bg-white focus:ring-2 border-slate-200 focus:ring-indigo-500/20 focus:border-indigo-500</value>
+      <webElementGuid>81722359-a9d8-4fed-8f86-e93961eb17ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>53ae138f-9d0c-4bc0-b72b-b7dae7bbbcdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>phone</value>
+      <webElementGuid>ca72c6d8-fc2f-486b-91f2-5dc23f55f786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e1e6e89bae519c0d0fc11dc603e30320</value>
+      <webElementGuid>8c68c528-52a2-4bfa-9a0c-2f10cf71f247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'input-shipping-phone']</value>
+      <webElementGuid>2066dac1-599a-474d-a207-5afd2422f483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>+1 (555) 234-5678</value>
+      <webElementGuid>57c23cce-9636-4530-8fe9-961ba6564d10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'input-shipping-phone']</value>
+      <webElementGuid>7757fa1e-f35a-481d-a4c5-0c1e6b7ac5b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-shipping-phone' and @placeholder = 'e.g. +1 (555) 234-5678' and @type = 'tel' and @name = 'phone']</value>
+      <webElementGuid>5af336bb-644a-4cf2-b6f6-a34d4de8dad1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

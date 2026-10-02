@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Transaksi_01_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5cef5192-87c9-4b3c-b5b5-df4b4d4c18f3</testCaseGuid>
+</TestCaseEntity>
